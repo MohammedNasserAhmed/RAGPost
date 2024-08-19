@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-📬 For any questions or feedback, please [open an issue](https://github.com/yourusername/RAGPost/issues) or contact the maintainers. We'd love to hear from you!
+📬 For any questions or feedback, please [open an issue](https://github.com/MohammedNasserAhmed/RAGPost/issues) or contact the maintainers. We'd love to hear from you!
 
 🌟 If you find RAGPost helpful, please consider giving it a star on GitHub!
 ```
