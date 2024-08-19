@@ -1,0 +1,42 @@
+# PDF Processing
+PyPDF2==3.0.1
+pdfminer.six==20221105
+
+# NLP and Machine Learning
+nltk==3.8.1
+scikit-learn==1.2.2
+transformers==4.29.2
+sentence-transformers==2.2.2
+
+# Retrieval and Generation
+llama-index==0.6.11
+langchain==0.0.184
+openai==0.27.7
+
+# Web Framework
+Flask==2.3.2
+Werkzeug==2.3.4
+
+# Database (for potential future use)
+SQLAlchemy==2.0.15
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0
+tqdm==4.65.0
+
+# Data Version Control
+dvc==2.58.2
+
+# Testing
+pytest==7.3.1
+pytest-cov==4.0.0
+
+# Jupyter (for notebooks)
+jupyter==1.0.0
+ipykernel==6.23.1
+
+# Code Quality
+flake8==6.0.0
+black==23.3.0
+isort==5.12.0
